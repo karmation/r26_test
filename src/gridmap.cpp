@@ -1,5 +1,8 @@
+#define _USE_MATH_DEFINES // This line must be before <cmath>
 #include "gridmap.h"
 #include <iostream>
+#include <cmath>
+#include <vector>
 
 using namespace std;
 

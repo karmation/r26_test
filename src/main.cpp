@@ -1,3 +1,4 @@
+#define _USE_MATH_DEFINES // This line fixes the M_PI error
 #include "gridmap.h"
 #include "odometry.h"
 #include "planning.h"
